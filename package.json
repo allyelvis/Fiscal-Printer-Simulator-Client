@@ -71,6 +71,6 @@
     "electron-builder": "^20.44.4",
     "react-localize-redux": "^3.5.3",
     "redux-devtools-extension": "^2.13.8",
-    "typescript": "^3.5.3"
+    "typescript": "^3.9.10"
   }
 }
